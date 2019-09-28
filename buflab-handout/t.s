@@ -1,0 +1,5 @@
+movl $0x35b20ac8, -0x10(%ebp)
+movl $0x62182637, 0x55683a74
+movl $0x0,	%ebx
+movl $0x55683a80,	%ebp
+
